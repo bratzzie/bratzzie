@@ -12,7 +12,7 @@ Hi, I'm Anastasiia, a software engineering student based in Kyiv, Ukraine.
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://img.icons8.com/office/40/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
   
 ![Bratzzie's GitHub stats](https://github-readme-stats.vercel.app/api?username=bratzzie&show_icons=true&icon_color=d182a1&text_color=755b65&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues)
 </div>
