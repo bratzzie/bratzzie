@@ -6,7 +6,7 @@
  <!--<h3 align="center"> Hi there 👋</h3> -->
 
 <p align="center">
-Hi, I'm Anastasiia, a Ukrainian Java Software Developer based in Berlin, Germany.
+Hi, I'm Anastasiia, a Ukrainian Software Engineer based in Berlin, Germany.
 </p>
 
 
